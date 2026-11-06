@@ -1,0 +1,167 @@
+[
+  {
+    "id": "strip-red-card",
+    "caption": "Photostrip Kartu Merah",
+    "category": "Koleksi Strip",
+    "type": "strip",
+    "aspect": 0.667,
+    "width": 3875,
+    "height": 5812,
+    "src": "/assets/gallery/strip-red-card-full.webp",
+    "thumb": "/assets/gallery/strip-red-card-thumb.webp"
+  },
+  {
+    "id": "strip-classic-black",
+    "caption": "Photostrip Classic Black",
+    "category": "Koleksi Strip",
+    "type": "strip",
+    "aspect": 0.667,
+    "width": 3875,
+    "height": 5812,
+    "src": "/assets/gallery/strip-classic-black-full.webp",
+    "thumb": "/assets/gallery/strip-classic-black-thumb.webp"
+  },
+  {
+    "id": "strip-red-white",
+    "caption": "Photostrip Vintage Menu",
+    "category": "Koleksi Strip",
+    "type": "strip",
+    "aspect": 0.667,
+    "width": 3875,
+    "height": 5812,
+    "src": "/assets/gallery/strip-red-white-full.webp",
+    "thumb": "/assets/gallery/strip-red-white-thumb.webp"
+  },
+  {
+    "id": "strip-clean-white",
+    "caption": "Photostrip Pure White",
+    "category": "Koleksi Strip",
+    "type": "strip",
+    "aspect": 0.667,
+    "width": 3875,
+    "height": 5812,
+    "src": "/assets/gallery/strip-clean-white-full.webp",
+    "thumb": "/assets/gallery/strip-clean-white-thumb.webp"
+  },
+  {
+    "id": "strip-newspaper",
+    "caption": "Photomatics News Edition",
+    "category": "Koleksi Strip",
+    "type": "strip",
+    "aspect": 0.667,
+    "width": 3875,
+    "height": 5812,
+    "src": "/assets/gallery/strip-newspaper-full.webp",
+    "thumb": "/assets/gallery/strip-newspaper-thumb.webp"
+  },
+  {
+    "id": "candid-red-1",
+    "caption": "Tawa di Balik Lensa Merah",
+    "category": "Momen Spontan",
+    "type": "candid",
+    "aspect": 1.5,
+    "width": 3456,
+    "height": 2304,
+    "src": "/assets/gallery/candid-red-1-full.webp",
+    "thumb": "/assets/gallery/candid-red-1-thumb.webp"
+  },
+  {
+    "id": "candid-red-2",
+    "caption": "Pose Manis Bersamamu",
+    "category": "Momen Spontan",
+    "type": "candid",
+    "aspect": 1.5,
+    "width": 3456,
+    "height": 2304,
+    "src": "/assets/gallery/candid-red-2-full.webp",
+    "thumb": "/assets/gallery/candid-red-2-thumb.webp"
+  },
+  {
+    "id": "candid-black-1",
+    "caption": "Tatapan Hangat Latar Hitam",
+    "category": "Momen Spontan",
+    "type": "candid",
+    "aspect": 1.5,
+    "width": 5184,
+    "height": 3456,
+    "src": "/assets/gallery/candid-black-1-full.webp",
+    "thumb": "/assets/gallery/candid-black-1-thumb.webp"
+  },
+  {
+    "id": "candid-black-2",
+    "caption": "Senyum Terbaik Kita",
+    "category": "Momen Spontan",
+    "type": "candid",
+    "aspect": 1.5,
+    "width": 5184,
+    "height": 3456,
+    "src": "/assets/gallery/candid-black-2-full.webp",
+    "thumb": "/assets/gallery/candid-black-2-thumb.webp"
+  },
+  {
+    "id": "candid-redwhite-1",
+    "caption": "Candaan Spontan di Sudut Booth",
+    "category": "Momen Spontan",
+    "type": "candid",
+    "aspect": 1.5,
+    "width": 5184,
+    "height": 3456,
+    "src": "/assets/gallery/candid-redwhite-1-full.webp",
+    "thumb": "/assets/gallery/candid-redwhite-1-thumb.webp"
+  },
+  {
+    "id": "candid-redwhite-2",
+    "caption": "Momen Dekat Penuh Tawa",
+    "category": "Momen Spontan",
+    "type": "candid",
+    "aspect": 1.5,
+    "width": 5184,
+    "height": 3456,
+    "src": "/assets/gallery/candid-redwhite-2-full.webp",
+    "thumb": "/assets/gallery/candid-redwhite-2-thumb.webp"
+  },
+  {
+    "id": "candid-white6-1",
+    "caption": "Hangat dalam Kesederhanaan",
+    "category": "Momen Spontan",
+    "type": "candid",
+    "aspect": 1.5,
+    "width": 5184,
+    "height": 3456,
+    "src": "/assets/gallery/candid-white6-1-full.webp",
+    "thumb": "/assets/gallery/candid-white6-1-thumb.webp"
+  },
+  {
+    "id": "candid-white6-2",
+    "caption": "Ekspresi Lucu Favorit",
+    "category": "Momen Spontan",
+    "type": "candid",
+    "aspect": 1.5,
+    "width": 5184,
+    "height": 3456,
+    "src": "/assets/gallery/candid-white6-2-full.webp",
+    "thumb": "/assets/gallery/candid-white6-2-thumb.webp"
+  },
+  {
+    "id": "candid-white8-1",
+    "caption": "Dua Hati Satu Langkah",
+    "category": "Momen Spontan",
+    "type": "candid",
+    "aspect": 1.5,
+    "width": 5184,
+    "height": 3456,
+    "src": "/assets/gallery/candid-white8-1-full.webp",
+    "thumb": "/assets/gallery/candid-white8-1-thumb.webp"
+  },
+  {
+    "id": "candid-white8-2",
+    "caption": "Detik-Detik Penuh Makna",
+    "category": "Momen Spontan",
+    "type": "candid",
+    "aspect": 1.5,
+    "width": 5184,
+    "height": 3456,
+    "src": "/assets/gallery/candid-white8-2-full.webp",
+    "thumb": "/assets/gallery/candid-white8-2-thumb.webp"
+  }
+]
